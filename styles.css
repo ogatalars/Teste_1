@@ -1,0 +1,17 @@
+.caixa1 { 
+    background: blue;
+    text-align: center; 
+    text-decoration: center;
+}
+
+.caixa2 { 
+    background: red;
+    text-align: center; 
+    text-decoration: center;
+
+}
+
+.p { 
+    color-scheme: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
